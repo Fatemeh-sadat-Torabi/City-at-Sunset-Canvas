@@ -1,4 +1,4 @@
-# Drawing-the-City-at-Sunset-with-CSS
+# City-at-Sunset-Canvas
 It's a city at sunset that I draw it with CSS. It's not responsive yet, so I suggest you visit this with desktop size screen! 
 
 
